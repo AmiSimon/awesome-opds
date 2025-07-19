@@ -16,10 +16,12 @@ OPDS (Open Publication Distribution System) is an open standard meant to facilit
 * [Moon+ Reader](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader)
 * [PocketBook Reader](https://play.google.com/store/apps/details?id=com.obreey.reader)
 * [The Palace Project](https://play.google.com/store/apps/details?id=org.thepalaceproject.palace)
+* [Readest](https://play.google.com/store/apps/details?id=com.bilingify.readest)
 
 ### eReaders
 
 * [KOReader](https://koreader.rocks/)
+* [Readest](https://readest.com/)
 
 ### iOS & iPadOS
 
@@ -29,20 +31,28 @@ OPDS (Open Publication Distribution System) is an open standard meant to facilit
 * [Panels - Comic Reader](https://apps.apple.com/us/app/panels-comic-reader/id1236567663)
 * [PocketBook Reader](https://apps.apple.com/us/app/pocketbook-reader/id805488884)
 * [Yomu Ebook Reader](https://apps.apple.com/us/app/yomu-ebook-reader/id562211012)
+* [Readest](https://apps.apple.com/app/id6738622779)
 
 ### Linux
 
 * [Thorium Reader](https://thorium.edrlab.org/en/)
+* [Readest](https://readest.com/)
 
 ### macOS
 
 * [FBReader](https://apps.apple.com/us/app/fbreader-epub-and-fb2-reader/id1067172178)
 * [Panels - Comic Reader](https://apps.apple.com/us/app/panels-comic-reader/id1236567663)
 * [Thorium Reader](https://thorium.edrlab.org/en/)
+* [Readest](https://apps.apple.com/app/apple-store/id6738622779)
 
 ### Windows
 
 * [Thorium Reader](https://thorium.edrlab.org/en/)
+* [Readest](https://readest.com/)
+
+### Web
+
+* [Readest](https://readest.com/)
 
 ## Servers & Catalog Generators
 
